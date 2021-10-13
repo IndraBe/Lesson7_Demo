@@ -1,0 +1,16 @@
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\Lesson7_Demo.exe
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\Lesson7_Demo.deps.json
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\Lesson7_Demo.runtimeconfig.json
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\Lesson7_Demo.runtimeconfig.dev.json
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\Lesson7_Demo.dll
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\ref\Lesson7_Demo.dll
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\bin\Debug\net5.0\Lesson7_Demo.pdb
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.csproj.AssemblyReference.cache
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.AssemblyInfoInputs.cache
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.AssemblyInfo.cs
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.csproj.CoreCompileInputs.cache
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.dll
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\ref\Lesson7_Demo.dll
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.pdb
+C:\C# projects\Scope_Demo\Lesson7_Demo\Lesson7_Demo\obj\Debug\net5.0\Lesson7_Demo.genruntimeconfig.cache

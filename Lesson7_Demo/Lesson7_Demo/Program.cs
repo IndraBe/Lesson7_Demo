@@ -11,6 +11,16 @@ namespace Lesson7_Demo
             Console.WriteLine("Hello World!");
 
             sumOfMin = 14;
+
+
+            DateTime currentDate = DateTime.UtcNow;
+
+            currentDate.GetYesterday();
+
+
+
+            Helper.Divide();
+            Helper.age = 14;
         }
 
         public void Sum()           //metode nav static, tāpēc nevar izmantot Main metodē
